@@ -1,0 +1,9 @@
+.select-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.select-title {
+    text-align: center;
+}
+

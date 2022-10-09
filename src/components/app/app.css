@@ -1,0 +1,7 @@
+.app{
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column;
+    color: white;
+    user-select: none;
+}

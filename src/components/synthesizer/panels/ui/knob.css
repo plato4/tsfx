@@ -1,0 +1,16 @@
+.knob-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5%;
+    margin-top: 5px;
+    width: fit-content;
+}
+
+.knob-text {
+    margin-bottom: 20%;
+}
+
+.knob-value {
+    margin-top: 15%;
+}
